@@ -1,0 +1,10 @@
+c:\documents\visual studio 2015\Projects\LINQ_Project\LINQ_Project\bin\Debug\LINQ_Project.exe
+c:\documents\visual studio 2015\Projects\LINQ_Project\LINQ_Project\bin\Debug\LINQ_Project.pdb
+c:\documents\visual studio 2015\Projects\LINQ_Project\LINQ_Project\obj\Debug\LINQ_Project.exe
+c:\documents\visual studio 2015\Projects\LINQ_Project\LINQ_Project\obj\Debug\LINQ_Project.pdb
+c:\documents\visual studio 2015\Projects\LINQ_Project\LINQ_Project\obj\Debug\LINQ_Project.csprojResolveAssemblyReference.cache
+E:\Brain\LINQ_Project\LINQ_Project\obj\Debug\LINQ_Project.exe
+E:\Brain\LINQ_Project\LINQ_Project\obj\Debug\LINQ_Project.pdb
+E:\Brain\LINQ_Project\LINQ_Project\obj\Debug\LINQ_Project.csprojResolveAssemblyReference.cache
+E:\Brain\LINQ_Project\LINQ_Project\bin\Debug\LINQ_Project.exe
+E:\Brain\LINQ_Project\LINQ_Project\bin\Debug\LINQ_Project.pdb
